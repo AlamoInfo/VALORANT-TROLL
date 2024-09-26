@@ -2,7 +2,7 @@
 	Este repositório não é o Valorant original, mas sim um repositório para trollar voluntários.
 
  # AVISO:
- 	Nós **NÃO** encorajamos o uso deste repositório em ambientes de trabalho ou escolares, por ser uma trollagem designada a espaços
+ 	Nós **NÃO** encorajamos o uso deste repositório em ambientes de trabalho ou escolares, por ser uma trollagem designada a espaços informais
   	ou revisões em redes sociais.
 
 # ISENÇÃO DE RESPONSABILIDADE:
